@@ -1,14 +1,6 @@
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center px-4 bg-white dark:bg-gray-950 transition-colors duration-300">
-      <head>
-        <link
-          rel="icon"
-          href="/icon?<generated>"
-          type="image/<generated>"
-          sizes="<generated>"
-        />
-      </head>
       <div className="max-w-xl text-center space-y-4">
         <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white">
           Jack Doughty BSc
