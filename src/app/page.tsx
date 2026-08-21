@@ -7,7 +7,7 @@ export default function Home() {
         </h1>
 
         <p className="text-lg text-gray-600 dark:text-gray-400">
-          Full-Stack Software Engineer based in Oxfordshire
+          Full-Stack Software Engineer based in Oxfordshire, UK
         </p>
 
         <div className="pt-4">
